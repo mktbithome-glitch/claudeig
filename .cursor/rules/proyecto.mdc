@@ -1,0 +1,10 @@
+---
+description: Reglas generales del proyecto claudeig
+alwaysApply: true
+---
+
+Sigue las instrucciones de @AGENTS.md en la raíz del repositorio.
+
+- Responde y documenta en español.
+- Cambios pequeños y enfocados; no subas secretos ni archivos `.env`.
+- Trabaja en ramas y abre un pull request en lugar de hacer push a `main`.
